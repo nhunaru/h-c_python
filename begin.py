@@ -5,4 +5,4 @@ def phepcong():
     c=a+b
     print(c)
 print(phepcong())
-
+print("anh thong dep trai")
