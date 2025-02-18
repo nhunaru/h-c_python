@@ -9,4 +9,4 @@ elif x>5:
     print ("hstb")
 else:
     print("hoc sinh yeu")
-print ("ket thuc chuong trinh")
+print ("ket thuc chuong trinh dai truyen hinh den đây là kết thúc")
