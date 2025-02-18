@@ -8,5 +8,5 @@ elif x>=7:
 elif x>5:
     print ("hstb")
 else:
-    print("yeu")
+    print("hoc sinh yeu")
 print ("ket thuc chuong trinh")
