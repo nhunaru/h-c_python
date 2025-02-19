@@ -1,6 +1,6 @@
 colors=["red","blue","yellow"]
 print(colors)
-student=["an","binh","nga","phuong"]
+student=["an","binh","nga","phuong","thiên","thành"]
 print(student[0])
 print(student[2])
 print(student[:])
@@ -11,3 +11,11 @@ student.append("ngọc")
 student.insert(2,"nghĩa")
 print(student)
 print(len(student))
+#đếm phần tử tỏng chuỗi
+print(student.count("nghĩa"))
+#xóa phần tử
+if "ngọc" in student :
+    student.remove("ngọc")
+print(student)
+student.pop(2)
+print(student)
